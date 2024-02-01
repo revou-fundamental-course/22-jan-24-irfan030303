@@ -1,0 +1,179 @@
+.paling {
+  background-color: green;
+  position: relative;
+  top: -20px;
+  width: 100;
+}
+
+.pelanggan {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  overflow: hidden;
+  top: 200px;
+  position: relative;
+  top: -500px;
+  left: 180px;
+}
+
+.pelanggan img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.tulisan {
+  position: absolute;
+  top: 900px;
+  left: 250px;
+}
+
+.tulisan2 {
+  position: absolute;
+  top: 850px;
+  left: 250px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  background-color: green;
+}
+
+.judul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10px;
+}
+
+.image-gallery {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  width: 50%;
+  margin-top: 150px;
+  height: 550px;
+  position: relative;
+  top: -620px;
+  right: -90px;
+}
+
+.button1 {
+  position: relative;
+  left: 350px;
+  top: -600px;
+}
+
+.image-gallery img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.flex-container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: end;
+  margin-top: 100px;
+  margin-left: 82%;
+  transform: translateX(-50%);
+  width: 350px;
+  background-color: gray;
+  position: relative;
+}
+
+.flex-container h6,
+.flex-container input,
+.flex-container select {
+  font-size: 20px;
+  margin: 25px;
+  height: 25px;
+}
+
+.flex-container select {
+  padding: 13px;
+  font-size: 16px;
+  margin: 20px;
+  width: 250px;
+}
+
+.flex-container button {
+  font-size: 20px;
+  margin: 20px;
+  width: 250px;
+}
+
+.error-message {
+  color: red;
+  font-size: small;
+}
+
+.paket {
+  background-color: green;
+  height: 150px;
+  position: relative;
+}
+
+.paket h1 {
+  position: relative;
+  margin-left: 45%;
+}
+
+.paket2 {
+  inline-size: auto;
+}
+
+.info {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.bawah {
+  margin-left: 35%;
+}
+
+.bawah1 {
+  margin-left: 47%;
+  height: 50px;
+  width: 100px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+.team-section {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.lingkaran {
+  width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgb(20, 20, 22);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 24px;
+}
+.baris-lingkaran {
+  display: flex;
+  align-items: center;
+}
+.baris-lingkaran p {
+  margin: 0;}
+  .baris10{
+    position: relative;
+    top: -500px;
+    left: 70px;
+  }
